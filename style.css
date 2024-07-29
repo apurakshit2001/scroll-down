@@ -63,7 +63,11 @@ section {
     transition-delay: 800ms;
 
 }
+img{
+    object-fit: contain;
+    overflow: hidden;
 
+}
 
 @media (max-width: 768px) {
     section {
